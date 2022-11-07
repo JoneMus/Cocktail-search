@@ -1,1 +1,1 @@
-#Recipe search app
+# Cocktail search app
