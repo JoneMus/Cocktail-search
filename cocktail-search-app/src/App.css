@@ -1,0 +1,48 @@
+.body {
+  margin-left: 15em;
+  margin-right: 15em;
+  background-color: slategray;
+}
+
+.form {
+  text-align: center;
+  padding-top: 1em;
+
+}
+
+#heading {
+  color: aliceblue;
+  font-size: 2em;
+}
+
+#input {
+  width: 15em;
+  padding: 8px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+.container {
+  text-align: center;
+  padding-top: 2em;
+  margin-top: 2em;
+}
+
+.container .cocktail {
+  flex-grow: 1;
+  align-items: center;
+  flex-direction: column;
+  display: flex;
+}
+
+#image {
+  border-radius: 8px;
+  width: 8cm;
+}
+
+#text {
+  background-color: aliceblue;
+  width: 20cm;
+  padding: 1em;
+
+}
